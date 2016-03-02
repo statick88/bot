@@ -1,26 +1,23 @@
 @aprende_libre es el organizdor del primer #PyDayLoja
 pilas-engine esta hecho en #Python el lenguaje oficial del #PyDayLoja
-Todo el mundo deberia aprender a programar, porque programar te enseña a pensar
 "Todo el mundo debería aprender a programar, porque programar te enseña a pensar" - Steve Jobs #AprendizajeLibre
-Bello es mejor que feo. #ZenDePython #PyDayLoja
+Hermoso es mejor que feo. #ZenDePython #PyDayLoja
 Explícito es mejor que implícito. #ZenDePython #PyDayLoja
 Simple es mejor que complejo. #ZenDePython #PyDayLoja
 Complejo es mejor que complicado. #ZenDePython #PyDayLoja
-Plano es mejor que anidado. #ZenDePython #PyDayLoja
-Disperso es mejor que denso. #ZenDePython #PyDayLoja
+Sencillo es mejor que anidado. #ZenDePython #PyDayLoja
+Ligero es mejor que denso. #ZenDePython #PyDayLoja
 La legibilidad cuenta. #ZenDePython #PyDayLoja
-Los casos especiales no son tan especiales como para quebrantar las reglas. #ZenDePython #PyDayLoja
-Lo práctico gana a lo puro. #ZenDePython #PyDayLoja
-Los errores nunca deberían dejarse pasar silenciosamente. #ZenDePython #PyDayLoja
-A menos que hayan sido silenciados explícitamente. #ZenDePython #PyDayLoja
+Los casos especiales no son tan especiales como para romper las reglas. #ZenDePython #PyDayLoja
+Lo práctico gana a la pureza. #ZenDePython #PyDayLoja
+Los errores nunca deberían dejarse pasar silenciosamente. A menos que hayan sido silenciados explícitamente. #ZenDePython #PyDayLoja
 Frente a la ambigüedad, rechaza la tentación de adivinar. #ZenDePython #PyDayLoja
-Debería haber una -y preferiblemente sólo una- manera obvia de hacerlo. #ZenDePython #PyDayLoja
-Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés. #ZenDePython #PyDayLoja
+Debe haber una -y preferiblemente sólo una- manera obvia de hacer las cosas. #ZenDePython #PyDayLoja
+La manera puede no ser obvia al principio a menos que seas holandés. #ZenDePython #PyDayLoja
 Ahora es mejor que nunca. #ZenDePython #PyDayLoja
-Aunque nunca es a menudo mejor que ya mismo. #ZenDePython #PyDayLoja
+"Nunca" es mejor que "ya mismo". #ZenDePython #PyDayLoja
 Si la implementación es difícil de explicar, es una mala idea. #ZenDePython #PyDayLoja
 Si la implementación es fácil de explicar, puede que sea una buena idea. #ZenDePython #PyDayLoja
-Los espacios de nombres son una gran idea ¡Hagamos más de esas cosas! #ZenDePython #PyDayLoja
 El dia del #PyDayLoja es 01/04/2016, inscribete http://goo.gl/forms/Wdw67THCY4
 El sitio oficial del #PyDayLoja es http://pyday.pythonecuador.org/ no olvides inscribirte
 #PyDayLoja: presenta a Ramiro Ramirez con su tema: Visualizacion de Datos con Django y JS http://pyday.pythonecuador.org/
@@ -29,9 +26,9 @@ El sitio oficial del #PyDayLoja es http://pyday.pythonecuador.org/ no olvides in
 #PyDayLoja: presenta a Milton Labanda con su tema: Python es Comunidad http://pyday.pythonecuador.org/
 #PyDayLoja: presenta a Diego Saavedra y Martha Flores con su tema: Aprendiendo a programar con PilasEngine http://pyday.pythonecuador.org/
 #PyDayLoja: presenta a Rubén Baéz con su tema: Migracion de Django 1.4 a 1.8 LTS http://pyday.pythonecuador.org/
-#PyDayLoja: presenta a Patricio Valarezo con su tema: fabric o doctest http://pyday.pythonecuador.org/
+#PyDayLoja: presenta a Patricio Valarezo con su tema: fabric http://pyday.pythonecuador.org/
 #PyDayLoja: presenta a Gabriel Gaona con su tema: Geoprocesos en Sistemas de información geográfica http://pyday.pythonecuador.org/
-#PyDayLoja: presenta a @jhonnyjazs con su tema: Escrapeando con BS4 http://pyday.pythonecuador.org/
+#PyDayLoja: presenta a Jhonny Zaruma con su tema: Escrapeando con BS4 http://pyday.pythonecuador.org/
 #PyDayLoja: presenta a Rodrigo Barba con su tema: Python y la visión artificial  http://pyday.pythonecuador.org/
 #PyDayLoja: presenta a Richar Leon y Lissette Loppez con su tema: Sistema de meritos y opocición en Django http://pyday.pythonecuador.org/
 #PyDayLoja: presenta a Jorge Luis Malla con su tema: Python y OWAS http://pyday.pythonecuador.org/
@@ -45,7 +42,6 @@ El sitio oficial del #PyDayLoja es http://pyday.pythonecuador.org/ no olvides in
 #PyDayLoja: presenta a Martín Gaitán con su tema: Ventajas de python 3 sobre python2. http://pyday.pythonecuador.org/
 El dia oficial del #PyDayLoja es 01/04/2016, inscribete http://goo.gl/forms/Wdw67THCY4
 El sitio oficial del #PyDayLoja es http://pyday.pythonecuador.org/ no olvides inscribirte
-Recuerda que #AprendizajeLibre es el organizador del 1er #PyDayLoja
 Visita http://pyday.pythonecuador.org/ y enterate lo que tenemos para ti en el #PyDayLoja
 @hugoruscitti participa del #PyDayLoja con su charla "Aprendiendo a programar videjuegos con pilas-engine" http://twitter.com/aprende_libre/status/704002724761837569/photo/1
 @patovala participa del #PyDayLoja con su charla "Fabric" http://twitter.com/aprende_libre/status/704003022096093185/photo/1
@@ -64,11 +60,11 @@ El #PyDayLoja se realiza con la colaboracion de @prendho
 El #PyDayLoja se realiza con la colaboracion de @cidsecure
 El #PyDayLoja se realiza con la colaboracion de @utpl
 El #PyDayLoja se realiza con la colaboracion de @nacionaldeloja
-No te lo pierdas! el #PyDayLoja viernes 01 abril de 2016 desde las 9:00 hasta las 18:00
+No te lo pierdas! #PyDayLoja viernes 01 abril de 2016 desde las 9:00 hasta las 18:00
 ¿Aun no sabes que es Python?, aquí te lo indicamos http://pyday.pythonecuador.org/#evento
 Conoce a nuestros disertantes en el primer #PyDayLoja http://pyday.pythonecuador.org/#disertantes
-Aun no te has inscrito, ¿Qué estas esperando? vístanos en http://pyday.pythonecuador.org/#inscripcion recuerda es el primer #PyDayLoja
-Si aun no sabes donde se desarrollara el #PyDayLoja te mostramos el lugar  http://pyday.pythonecuador.org/#lugar
+Aun no te has inscrito, ¿Qué estas esperando? vístanos en http://pyday.pythonecuador.org/#inscripcion recuerda es #GRATIS!!!
+Si aun no sabes donde se desarrollara el #PyDayLoja te mostramos el lugar http://pyday.pythonecuador.org/#lugar
 ¿Quienes participan de la organiación del #PyDayLoja? http://pyday.pythonecuador.org/#organizadores
 Conoce a la Comunidad de #PythonEcuador http://pythonecuador.org/#comunidad
 La comunidad de #PythonEcuador se guia por este Código de Conducta http://pythonecuador.org/#codeofconduct
@@ -77,9 +73,8 @@ Recuerda que el sitio oficial del #PyDayLoja es: pyday.pythonecuador.org inscrib
 Algunas charlas y talleres serán On-line pyday.pythonecuador.org no te quedes fuera #PyDayLoja, recuerda es un evento gratuito de #Python
 Cada día tenemos más inscritos en el #PyDayLoja el evento es gratuito pyday.pythonecuador.org este y se realizará el 01/04/2016
 Los Sistemas de Información Geográfica (SIG) también se analizarán en el #pyDayLoja @PythonEcuador pyday.pythonecuador.org/#inscripcion #1Abril2016
-#pyDayLoja. Te invitamos a participar del evento - INSCRIPCIÓN. pyday.pythonecuador.org/#inscripcion #1Abril2016. pyday.pythonecuador.org
+#pyDayLoja. Te invitamos a participar del evento - INSCRIPCIÓN GRATUITA. pyday.pythonecuador.org/#inscripcion #1Abril2016
 Este 01 de Abril tienes una cita con #Python, en el primer #PyDayLoja, inscribirte en pyday.pythonecuador.org charlas, talleres y más
-El #PyDayLoja es un evento de gran importancia para los programadores en este lenguaje pyday.pythonecuador.org no olvides inscribirte y RT
 El sitio web del #PyDayLoja es pyday.pythonecuador.org no olvides inscribirte y conocer a nuestros ponentes magistrales
 El #PyDayLoja que organizan los amigos de @aprende_libre con apoyo de @CIDsecureLoja @utiunl @utpl y @prendho es gratuito, inscribete
 Cualquiera puede aprender a programar. ¡Sí, cualquiera! No hay que ser un genio ni un maestro en nada. #PyDayLoja 01-Abr-2016
@@ -98,8 +93,8 @@ Queremos agradecer a @manuelmax @edisoncor @mricharleon @machutec @rlmacas @reyd
 #SabíasQue: @netflix utiliza #Python en algunos de sus módulos #via pythoniza.me/python-en-netflix
 #SabíasQue: los bots de Wikipedia se programan en python descubre más en es.wikipedia.org/wiki/Ayuda:Cómo_crear_un_bot
 #SabíasQue: Open edX está escrito en su mayoría con #Python (con algo de Ruby & NodeJS) bajo una licencia #AGPL
-#SabíasQue: #Python obtuvo su nombre debido a que el diseñador era un fan de #MontyPython
+#SabíasQue: #Python obtuvo su nombre debido a que su creador era un fan de #MontyPython
 #SabíasQue: puedes descargar toda la documentación oficial de #Python para su lectura #offline python.org/doc
 #SabíasQue: se puede levantar un servidor python con sólo una línea de comando al ejecutar «python -m SimpleHTTPServer 8080»
-#SabíasQue: YouTube esta escrito en Python y corre con Apache+MySQL en #Linux
+#SabíasQue: YouTube esta escrito con Python (entre otras tecnologías) y corre con Apache+MySQL en #Linux
 #SabíasQue: puedes ser miembro de @ThePSF la organización detrás de #Python para más información: python.org/psf/membership
