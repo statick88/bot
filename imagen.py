@@ -12,23 +12,6 @@ oauth_token = ''
 oauth_token_secret = ''
 twitter = Twython(app_key, app_secret, oauth_token, oauth_token_secret)
 
-def leertxtenlista():
-
-    # Bucle infinito
-    mensaje = ""
-
-    # Abrimos el archivo
-    archi = open('twit', 'r')
-    lineas = archi.readlines()
-
-    # Elegir un twit aleatorio
-    t = randint(0, len(lineas) - 1)
-    mensaje = lineas[t]
-    # Agrega el Tweet
-    twitter.update_status(status=mensaje)
-    archi.close()
-
-
 def imagen_lista():
 
     #Variable donde se almacena la imagen
@@ -43,11 +26,18 @@ def imagen_lista():
     #Abrimos el archivo de tipo imagen con la opción open y lo almacenamos en la variable photo
     photo = open(imagen, 'rb')
 
-    #Cargamos en twitter la imagen mediante la opción twitter.upload_media(media=photo)
-    response = twitter.upload_media(media=photo)
+    if i >= 1 and <=10:
+        #Cargamos en twitter la imagen mediante la opción twitter.upload_media(media=photo)
+        response = twitter.upload_media(media=photo)
+        #Enviamos el twit
+        twitter.update_status(status='Texto1 ', media_ids=[response['media_id']])
+    elif i >= 11 and <= 20:
+        response = twitter.upload_media(media=photo)
+        #Enviamos el twit
+        twitter.update_status(status='Texto2 ', media_ids=[response['media_id']])
+    elif i >= 21 and <= 30:
+        response = twitter.upload_media(media=photo)
+        #Enviamos el twit
+        twitter.update_status(status='Texto3 ', media_ids=[response['media_id']])
 
-    #Enviamos el twit
-    twitter.update_status(status='Texto del twit ', media_ids=[response['media_id']])
-
-# leertxtenlista()
 imagen_lista()
